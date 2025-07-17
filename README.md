@@ -1,4 +1,4 @@
-# EcoVision - E-Waste Image Classification System
+# EcoVision - E-Waste Classification System
 
 A full-stack image classification platform that identifies types of electronic waste using Deep Learning (CNN), SVM, and Random Forest models. The system enables real-time image classification with model selection, live prediction, and result storage.
 
